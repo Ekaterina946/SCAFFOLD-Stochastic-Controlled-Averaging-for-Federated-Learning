@@ -3,4 +3,4 @@
 
 brief_overview.ipynb - файл, в котором содержится постановка задачи, описание основной идеи статьи
 
-(https://colab.research.google.com/drive/1K3eAup3fHtec-HOgF-xKskEgJ4KO3KkW#scrollTo=2FfMUaxcU3mr)https://colab.research.google.com/drive/1K3eAup3fHtec-HOgF-xKskEgJ4KO3KkW#scrollTo=2FfMUaxcU3mr - еще один невероятный ноутбук с экспериментами
+Эксперименты с кодом - ноутбук, в котором реализованы 2 оптимизатора - FedAvg и SCAFFOLD для задачи классификации MNIST
